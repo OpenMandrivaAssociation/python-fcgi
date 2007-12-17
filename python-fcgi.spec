@@ -9,7 +9,6 @@ URL:            http://alldunn.com/python/
 Source0:        http://alldunn.com/python/fcgi.py
 %py_requires -d
 BuildArch:      noarch
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 The fcgi.py Python module handles communication with the FastCGI module
