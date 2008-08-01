@@ -1,6 +1,6 @@
 Name:           python-fcgi
 Version:        2000.09.21
-Release:        %mkrel 3
+Release:        %mkrel 4
 Epoch:          0
 Summary:        Python FastCGI Module
 Group:          Development/Python
