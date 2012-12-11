@@ -34,3 +34,35 @@ developers kit. It will also work in a non-FastCGI environment,
 %defattr(-,root,root,0755)
 %{python_sitelib}/fcgi.py*
 
+
+
+%changelog
+* Sat Nov 06 2010 Funda Wang <fwang@mandriva.org> 0:2000.09.21-7mdv2011.0
++ Revision: 593930
+- rebuild for py2.7
+
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0:2000.09.21-6mdv2010.0
++ Revision: 442107
+- rebuild
+
+* Sat Jan 03 2009 Funda Wang <fwang@mandriva.org> 0:2000.09.21-5mdv2009.1
++ Revision: 323704
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 0:2000.09.21-4mdv2009.0
++ Revision: 259602
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0:2000.09.21-3mdv2009.0
++ Revision: 247411
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Oct 29 2007 David Walluck <walluck@mandriva.org> 0:2000.09.21-1mdv2008.1
++ Revision: 103620
+- import python-fcgi
+
+
