@@ -6,7 +6,7 @@ Summary:        Python FastCGI Module
 
 Group:          Development/Python
 License:        BSD
-URL:            http://alldunn.com/python/
+URL:            https://alldunn.com/python/
 Source0:        http://alldunn.com/python/fcgi.py
 BuildRequires:  python-devel
 BuildArch:      noarch
